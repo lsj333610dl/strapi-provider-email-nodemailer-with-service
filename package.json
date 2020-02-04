@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-email-nodemailer-with-service",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Strapi email plugin nodemailer provider",
   "keywords": [
     "strapi",
