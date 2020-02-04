@@ -1,4 +1,4 @@
-# strapi-email-nodemailer
+# strapi-provider-email-nodemailer-with-service
 
 ## Resources
 
@@ -16,6 +16,6 @@
 npm i strapi-provider-email-nodemailer-with-service
 ```
 
-## Usage
+## Supported services
 
-- [Supported nodemailer services](https://nodemailer.com/smtp/well-known/#supported-services)
+- [Supported services](https://nodemailer.com/smtp/well-known/#supported-services)
