@@ -1,0 +1,38 @@
+{
+  "name": "strapi-provider-email-nodemailer-with-service",
+  "version": "0.1.0",
+  "description": "Strapi email plugin nodemailer provider",
+  "keywords": [
+    "strapi",
+    "email provider",
+    "nodemailer"
+  ],
+  "main": "./lib",
+  "homepage": "https://github.com/lsj333610dl/strapi-provider-email-nodemailer-with-service",
+  "repository": "https://github.com/lsj333610dl/strapi-provider-email-nodemailer-with-service",
+  "author": "Sangjin LEE <master@entusapps.com> (https://entusapps.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lsj333610dl/strapi-provider-email-nodemailer-with-service/issues",
+    "email": "master@entusapps.com"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "nodemailer": "^6.4.2"
+  },
+  "engines": {
+    "node": ">= 9.0.0",
+    "npm": ">= 5.3.0"
+  }
+}
